@@ -1,7 +1,8 @@
 # 🚀 Clean Chord App 
 
-Ini adalah repositori untuk menampilkan konsep, dokumentasi, dan hasil akhir dari projek Clean Chord App. 
-*Source code utama dari projek ini disimpan di repositori privat untuk alasan keamanan dan hak cipta.*
+Ini adalah repositori untuk menampilkan konsep, dokumentasi, dan hasil akhir dari projek Clean Chord App.
+
+# *The main source code of this project is stored in a private repository for security and copyright reasons.*
 
 ## 📝 Deskripsi Projek
 "Aplikasi Pelatihan Chord Gitar Interaktif Dengan Penerapan Gamifikasi Untuk Pemula"
